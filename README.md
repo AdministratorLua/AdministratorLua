@@ -16,6 +16,5 @@ Hello! My Name is Administrator Lua. <br>im Programming Apps.
     <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
 </p>
 ---
-[![](https://visitcount.itsvg.in/api?id=AdministratorLua&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=AdministratorLua&icon=0&color=0)](https://visitcount.itsvg.in)
