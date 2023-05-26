@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My Name is Administrator Lua. <br>im Programming Apps.
+Hello! My Name is Administrator Lua. <br>im Programming Apps. <br>Also, im new Github User.
 
 
 # 💻 Tech Stack:
