@@ -9,12 +9,12 @@ Hello! My Name is Administrator Lua. <br>im Programming Apps.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AdministratorLua&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdministratorLua&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdministratorLua&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# Contribution Snake!
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
+<p align="center">
+    <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only">
+    <img src="https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
+</p>
 ---
 [![](https://visitcount.itsvg.in/api?id=AdministratorLua&icon=0&color=0)](https://visitcount.itsvg.in)
 
