@@ -12,7 +12,7 @@ Hello! My Name is Administrator Lua. <br>im Programming Apps.
 # Contribution Snake!
 
 <p align="center">
-    <img src="https://github.com/AdministratorLua/AdministratorLua/blob/main/Snake/github-contribution-grid-snake-dark.svg#gh-light-mode-only">
+    <img src="https://github.com/AdministratorLua/AdministratorLua/blob/main/Snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only">
     <img src="https://github.com/AdministratorLua/AdministratorLua/blob/main/Snake/github-contribution-grid-snake.svg#gh-dark-mode-only">
 </p>
 ---
